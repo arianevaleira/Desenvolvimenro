@@ -6,10 +6,10 @@ Este repositório foi criado para armazenar projetos que demonstram minhas habil
 
 #### O principal objetivo deste repositório é:
 
-Consolidar conhecimentos técnicos
+-  Consolidar conhecimentos técnicos
 
-Praticar diferentes tecnologias e conceitos
+- Praticar diferentes tecnologias e conceitos
 
-Demonstrar evolução e capacidade de resolução de problemas
+- Demonstrar evolução e capacidade de resolução de problemas
 
-Servir como portfólio de projetos
+- Servir como portfólio de projetos
