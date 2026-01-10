@@ -12,4 +12,3 @@ Este repositório foi criado para armazenar projetos que demonstram minhas habil
 
 - Demonstrar evolução e capacidade de resolução de problemas
 
-- Servir como portfólio de projetos
